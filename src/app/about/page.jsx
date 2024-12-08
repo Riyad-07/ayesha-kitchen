@@ -1,7 +1,9 @@
 import Container from "@/components/Container";
 
 
+
 const about = () => {
+ 
     return (
         <div>
             <Container>
